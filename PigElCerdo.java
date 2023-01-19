@@ -1,5 +1,3 @@
-package Mastermind.JavaMastermind.Ejercicios.Ejercicio5;
-
 import java.util.Scanner;
 
 public class PigElCerdo {
